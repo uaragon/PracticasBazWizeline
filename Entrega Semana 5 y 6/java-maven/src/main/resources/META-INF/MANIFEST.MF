@@ -1,1 +1,0 @@
-Main-Class: com.baz.wizeline.javamaven.JavaMavenApplication
