@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.baz.wizeline.javamaven.controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 2, Skipped: 0, Time elapsed: 9.156 s <<< FAILURE! - in com.baz.wizeline.javamaven.controller.UserControllerTest
+cuandoseObtieneUnaExcepcionEnElConsumodeLaAPiPublica  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.baz.wizeline.javamaven.controller.UserControllerTest.cuandoseObtieneUnaExcepcionEnElConsumodeLaAPiPublica(UserControllerTest.java:246)
+
+valida_Lista_Obtener_Usuarios  Time elapsed: 0.048 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<406>
+	at com.baz.wizeline.javamaven.controller.UserControllerTest.valida_Lista_Obtener_Usuarios(UserControllerTest.java:122)
+
+consumirApiPublicaRespuestaCorrecta  Time elapsed: 0.014 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.baz.wizeline.javamaven.controller.UserControllerTest.consumirApiPublicaRespuestaCorrecta(UserControllerTest.java:237)
+

@@ -1,0 +1,6 @@
+com\baz\wizeline\javamaven\configuration\KafkaConfigurationTest.class
+com\baz\wizeline\javamaven\model\UsuariosTest.class
+com\baz\wizeline\javamaven\controller\ApiPublicaControllerTest.class
+com\baz\wizeline\javamaven\JavaMavenApplicationTests.class
+com\baz\wizeline\javamaven\repository\UserControllerIT.class
+com\baz\wizeline\javamaven\controller\UserControllerTest.class

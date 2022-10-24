@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.baz.wizeline.javamaven.controller.ApiPublicaControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.148 s <<< FAILURE! - in com.baz.wizeline.javamaven.controller.ApiPublicaControllerTest
+testJsonController  Time elapsed: 0.142 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.baz.wizeline.javamaven.controller.ApiPublicaControllerTest.testJsonController(ApiPublicaControllerTest.java:41)
+
